@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://angry-bassi-47b88b.netlify.app/"
 languageCode = "en-us"
 title = "Blog Site"
 paginate = 3
